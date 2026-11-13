@@ -23,11 +23,11 @@ Go to the URL for the webserver (likely `localhost:1111`) to explore the site.
 
 ### Adding to the site
 
-Please create a new branch for your changes and open a PR. Reviews are mandatory. Builds are automated via CI.
+Please create a new branch for your changes and open a PR. Reviews are mandatory. Builds are 
 
 ## Built with
 
-This project is built and run using [Zola](https://www.getzola.org/), a Rust-based static site generator.
+This project is build and run using [Zola](https://www.getzola.org/), a Rust-based static site generator.
 
 Under the hood, Zola uses [Tera](https://keats.github.io/tera/) for templating.
 
